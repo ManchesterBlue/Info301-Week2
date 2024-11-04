@@ -15,7 +15,7 @@
 This repository is dedicated to the information visualization (infovis) redesign of the paper:
 
 **Paper**: Cen, Jiazhong, Zanwei Zhou, Jiemin Fang, Chen Yang, Wei Shen, Lingxi Xie, Xiaopeng Zhang, and Qi Tian. 2023. *Segment Anything in 3D with NeRFs*. *In Proceedings of the Conference on Neural Information Processing Systems (NeurIPS)*.  
-[Link to Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/)
+[Link to Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/525d24400247f884c3419b0b7b1c4829-Abstract-Conference.html)
 
 ## Overview
 
